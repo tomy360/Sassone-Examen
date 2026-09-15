@@ -384,14 +384,6 @@ h4 {
   margin: 0;
 }
 
-.howto-img {
-  width: 100%;
-  height: 540px;
-  object-fit: cover;
-  border: 1px solid var(--line);
-  filter: saturate(0.75);
-}
-
 /* ─────────── Testimonios ─────────── */
 
 .testimonial {
@@ -603,11 +595,6 @@ textarea.form-control {
 @media (max-width: 991.98px) {
   .hero {
     padding-top: 120px;
-  }
-
-  .howto-img {
-    height: 360px;
-    margin-bottom: 40px;
   }
 }
 
